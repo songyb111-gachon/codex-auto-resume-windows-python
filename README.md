@@ -1,3 +1,13 @@
+> **This is the Python edition of Codex Auto Resume, frozen at v0.6.26.**
+> The history and the release tags stop at that version, and this repository is archived
+> (read-only). Development goes on in the main repository,
+> [songyb111-gachon/codex-auto-resume-windows](https://github.com/songyb111-gachon/codex-auto-resume-windows):
+> new releases, the installers and the update check live there. Please open
+> [issues](https://github.com/songyb111-gachon/codex-auto-resume-windows/issues) and
+> [discussions](https://github.com/songyb111-gachon/codex-auto-resume-windows/discussions) there,
+> not here. The installers for v0.6.26 and every older release are still on the main
+> repository's [releases page](https://github.com/songyb111-gachon/codex-auto-resume-windows/releases).
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-motion-dark.png">
